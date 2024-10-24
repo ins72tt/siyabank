@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
     projectId: 'siya-bank-cdcaa',
     storageBucket: 'siya-bank-cdcaa.appspot.com',
     iosClientId: '750850442129-8nsnec9p2d6fuvv6mp47mi513ffat5au.apps.googleusercontent.com',
-    iosBundleId: 'com.example.viserBank',
+    iosBundleId: 'com.siyabank.app',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
@@ -75,7 +75,7 @@ class DefaultFirebaseOptions {
     projectId: 'siya-bank-cdcaa',
     storageBucket: 'siya-bank-cdcaa.appspot.com',
     iosClientId: '750850442129-52ddq1tmsnbf8p3dmfs1jvltl20rm2cm.apps.googleusercontent.com',
-    iosBundleId: 'com.example.siyabank',
+    iosBundleId: 'com.siyabank.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
