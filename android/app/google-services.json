@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:750850442129:android:35952e037e2921e144d030",
+        "mobilesdk_app_id": "1:750850442129:android:c2d557bff1d134eb44d030",
         "android_client_info": {
           "package_name": "com.siyabank.app"
         }
@@ -31,10 +31,10 @@
               "client_type": 3
             },
             {
-              "client_id": "750850442129-8nsnec9p2d6fuvv6mp47mi513ffat5au.apps.googleusercontent.com",
+              "client_id": "750850442129-52ddq1tmsnbf8p3dmfs1jvltl20rm2cm.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.siyabank.app"
+                "bundle_id": "com.example.siyabank"
               }
             }
           ]
