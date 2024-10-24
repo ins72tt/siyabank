@@ -42,7 +42,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyA0cyahs1uR-9f_6YlEhEZEezOw7ywmdF8',
-    appId: '1:750850442129:android:c2d557bff1d134eb44d030',
+    appId: '1:750850442129:android:35952e037e2921e144d030',
     messagingSenderId: '750850442129',
     projectId: 'siya-bank-cdcaa',
     storageBucket: 'siya-bank-cdcaa.appspot.com',
@@ -50,11 +50,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBh3TC4vMhqnW6gjgiJm_l84UqE6IpVXww',
-    appId: '1:750850442129:ios:5d29f5f3a906b3a144d030',
+    appId: '1:750850442129:ios:365e24437bf099f344d030',
     messagingSenderId: '750850442129',
     projectId: 'siya-bank-cdcaa',
     storageBucket: 'siya-bank-cdcaa.appspot.com',
-    iosClientId: '750850442129-vlj5hq4lf8ki2tbpouruoniobhvcjgem.apps.googleusercontent.com',
+    iosClientId: '750850442129-8nsnec9p2d6fuvv6mp47mi513ffat5au.apps.googleusercontent.com',
     iosBundleId: 'com.siyabank.app',
   );
 
